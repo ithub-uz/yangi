@@ -1,0 +1,182 @@
+{
+    "common": {
+        "cancel": "Bekor qilish",
+        "save": "Saqlash",
+        "delete": "O'chirish",
+        "edit": "Tahrirlash",
+        "done": "Tayyor",
+        "back": "Orqaga",
+        "next": "Keyingi",
+        "skip": "O'tkazib yuborish",
+        "continue": "Davom etish",
+        "finish": "Tugatish",
+        "error": "Xato",
+        "loading": "Yuklanmoqda...",
+        "ok": "OK",
+        "success": "Muvaffaqiyat"
+    },
+    "auth": {
+        "signIn": "Kirish",
+        "signUp": "Ro'yxatdan o'tish",
+        "email": "Email",
+        "password": "Parol",
+        "confirmPassword": "Parolni tasdiqlang",
+        "forgotPassword": "Parolni unutdingizmi?",
+        "dontHaveAccount": "Hisobingiz yo'qmi?",
+        "alreadyHaveAccount": "Hisobingiz bormi?",
+        "createAccount": "Hisob yaratish",
+        "signOut": "Chiqish",
+        "welcomeBack": "Xush kelibsiz! Iltimos, hisobingizga kiring",
+        "fillAllFields": "Iltimos, barcha maydonlarni to'ldiring",
+        "invalidCredentials": "Noto'g'ri ma'lumotlar",
+        "signingIn": "Kirilmoqda...",
+        "signInAsVip": "VIP sifatida kirish",
+        "name": "Ism",
+        "namePlaceholder": "Ismingiz",
+        "emailPlaceholder": "you@email.com",
+        "passwordPlaceholder": "••••••••",
+        "passwordsDontMatch": "Parollar mos emas"
+    },
+            "onboarding": {
+            "welcome": "Starter'ga xush kelibsiz",
+            "welcomeDesc": "Ko'p tilli qo'llab-quvvatlash va qorong'i rejim bilan zamonaviy React Native ilovangiz",
+            "features": "Ajoyib xususiyatlar",
+            "featuresDesc": "Zamonaviy mobil ishlab chiqarish kuchini bizning xususiyatlarga boy starter shabloni bilan bilib ko'ring",
+            "customization": "Hammasini sozlash",
+            "customizationDesc": "Ilovani haqiqatan sizga tegishli qilish uchun o'z xohlagan mavzuingiz va tilingizni tanlang",
+            "ready": "Hammasi tayyor!",
+            "readyDesc": "Sizga kerakli barcha xususiyatlar bilan yangi ilovangizni o'rganishni boshlang",
+            "screen2": "Onboarding tugadi!",
+            "complete": "Boshlash",
+            "biometricEnabled": "Biometrik autentifikatsiya yoqildi!",
+            "permissionRequired": "Ruxsat talab qilinadi",
+            "enableBiometricInSettings": "Iltimos, qurilma sozlamalarida biometrik autentifikatsiyani yoqing.",
+            "biometricConfigFailed": "Biometrik autentifikatsiyani yoqishda xatolik yuz berdi. Uni keyinroq sozlamalarda yoqishingiz mumkin.",
+            "enableBiometric": "Xavfsiz kirish uchun biometrik autentifikatsiyani yoqishni xohlaysizmi?",
+            "biometricNotAvailable": "Bu qurilmada biometrik autentifikatsiya mavjud emas.",
+            "biometricNotAvailableDesc": "Agar mavjud bo'lsa, uni keyinroq sozlamalarda yoqishingiz mumkin.",
+            "setupPinCode": "PIN kod sozlash",
+            "setupPinCodeMessage": "Zaxira autentifikatsiya usuli sifatida 4 xonali PIN kod sozlamoqchimisiz?",
+            "pinCodeSetup": "PIN kod sozlash",
+            "pinCodeSetupMessage": "PIN kod sozlash xususiyati tez orada! Uni keyinroq sozlamalarda sozlashingiz mumkin.",
+            "enable": "Yoqish",
+            "skip": "O'tkazib yuborish"
+        },
+    "home": {
+        "title": "Yangi ilovangizga xush kelibsiz!",
+        "searchPlaceholder": "Biror narsa qidiring...",
+        "welcomeBack": "Xush kelibsiz!",
+        "readyToExplore": "O'rganishga tayyormisiz?",
+        "yourStats": "Sizning statistikangiz",
+        "quickActions": "Tezkor harakatlar",
+        "featuresIncluded": "Kiritilgan xususiyatlar"
+    },
+    "vip": {
+        "title": "VIP tajriba"
+    },
+    "profile": {
+        "title": "Profil",
+        "vipUser": "VIP foydalanuvchi",
+        "regularUser": "Oddiy foydalanuvchi",
+        "premiumAccount": "Premium hisob",
+        "freeAccount": "Bepul hisob",
+        "accountSettings": "Hisob sozlamalari",
+        "logout": "Chiqish",
+        "logoutConfirm": "Chiqishni xohlaysizmi?"
+    },
+    "notifications": {
+        "title": "Bildirishnomalar",
+        "noNotifications": "Hali bildirishnoma yo'q",
+        "sendTest": "Sinov yuborish",
+        "deleteTitle": "Bildirishnomani o'chirish",
+        "deleteMessage": "Bu bildirishnomani o'chirishni xohlaysizmi?",
+        "clearAllTitle": "Barcha bildirishnomalarni tozalash",
+        "clearAllMessage": "Barcha bildirishnomalarni tozalashni xohlaysizmi?",
+        "justNow": "Hozir",
+        "minutesAgo": "{{count}} daqiqa oldin",
+        "hoursAgo": "{{count}} soat oldin",
+        "markAllRead": "Barchasini o'qilgan deb belgilash",
+        "clearAll": "Barchasini tozalash",
+        "testNotification": "Sinov bildirishnomasi yuborildi!",
+        "permissionRequired": "Bildirishnoma ruxsati kerak",
+        "permissionMessage": "Yangilanishlarni olish uchun sozlamalarda bildirishnomalarni yoqing"
+    },
+    "settings": {
+        "title": "Sozlamalar",
+        "appearance": {
+            "title": "Ko'rinish",
+            "theme": "Mavzu",
+            "language": "Til"
+        },
+        "theme": {
+            "light": "Yorug'",
+            "dark": "Qorong'i",
+            "system": "Tizim"
+        },
+        "language": {
+            "english": "English",
+            "uzbek": "O'zbekcha",
+            "system": "Tizim"
+        },
+        "notifications": {
+            "title": "Bildirishnomalar",
+            "enable": "Bildirishnomalarni yoqish",
+            "haptic": "Haptik fikr",
+            "testNotification": "Sinov bildirishnomasi yuborish"
+        },
+        "general": {
+            "title": "Umumiy",
+            "autoSave": "Avtomatik saqlash"
+        },
+        "actions": {
+            "title": "Harakatlar",
+            "exportSettings": "Sozlamalarni eksport qilish",
+            "logout": "Chiqish"
+        },
+        "about": {
+            "title": "Haqida",
+            "version": "Versiya",
+            "build": "Build",
+            "platform": "Platforma",
+            "designSystem": "Dizayn tizimi"
+        },
+        "reset": {
+            "title": "Barcha ma'lumotlarni tiklash",
+            "message": "Barcha sozlamalar va foydalanuvchi ma'lumotlarini standart qiymatlarga tiklashni xohlaysizmi? Bu sizni tizimdan chiqaradi va barcha sozlamalarni tozalaydi.",
+            "confirm": "Hammasini tiklash"
+        },
+        "security": {
+            "title": "Xavfsizlik va Maxfiylik",
+            "biometricAuth": "Biometrik autentifikatsiya",
+            "lockScreen": "Qulf ekrani",
+            "lockTimeout": "Qulf vaqti",
+            "pinCode": "PIN kod",
+            "pinCodeSubtitle": "Ilova qulfi uchun 4 xonali PIN kod",
+            "changePinCode": "PIN kodni o'zgartirish",
+            "enterCurrentPin": "Joriy PIN kodni kiriting",
+            "enterNewPin": "Yangi PIN kodni kiriting",
+            "confirmNewPin": "Yangi PIN kodni tasdiqlang",
+            "pinChanged": "PIN kod muvaffaqiyatli o'zgartirildi",
+            "pinMismatch": "PIN kodlar mos kelmaydi",
+            "invalidPin": "Noto'g'ri PIN kod",
+            "biometricNotAvailable": "Bu qurilmada biometrik autentifikatsiya mavjud emas",
+            "biometricConfigured": "Biometrik autentifikatsiya to'g'ri sozlangan",
+            "biometricPasscodeOnly": "Faqat parol sozlangan. Iltimos, qurilma sozlamalarida Face ID/Touch ID ni sozlang.",
+            "lockAppWhenInactive": "Faol bo'lmaganda ilovani qulfga olish"
+        },
+        "lockScreen": {
+            "title": "Ilova qulangan",
+            "subtitle": "PIN kod kiriting",
+            "biometricSubtitle": "Biometrik bilan ochish",
+            "pinCodeRequired": "Ochish uchun PIN kod talab qilinadi"
+        },
+        "timeout": {
+            "immediately": "Darhol",
+            "30seconds": "30 soniya",
+            "1minute": "1 daqiqa",
+            "5minutes": "5 daqiqa",
+            "15minutes": "15 daqiqa",
+            "1hour": "1 soat"
+        }
+    }
+}

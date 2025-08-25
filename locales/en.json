@@ -1,0 +1,182 @@
+{
+    "common": {
+        "cancel": "Cancel",
+        "save": "Save",
+        "delete": "Delete",
+        "edit": "Edit",
+        "done": "Done",
+        "back": "Back",
+        "next": "Next",
+        "skip": "Skip",
+        "continue": "Continue",
+        "finish": "Finish",
+        "error": "Error",
+        "loading": "Loading...",
+        "ok": "OK",
+        "success": "Success"
+    },
+    "auth": {
+        "signIn": "Sign In",
+        "signUp": "Sign Up",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "forgotPassword": "Forgot Password?",
+        "dontHaveAccount": "Don't have an account?",
+        "alreadyHaveAccount": "Already have an account?",
+        "createAccount": "Create Account",
+        "signOut": "Sign Out",
+        "welcomeBack": "Welcome back! Please sign in to your account",
+        "fillAllFields": "Please fill in all fields",
+        "invalidCredentials": "Invalid credentials",
+        "signingIn": "Signing in...",
+        "signInAsVip": "Sign in as VIP",
+        "name": "Name",
+        "namePlaceholder": "Your name",
+        "emailPlaceholder": "you@email.com",
+        "passwordPlaceholder": "••••••••",
+        "passwordsDontMatch": "Passwords do not match"
+    },
+            "onboarding": {
+            "welcome": "Welcome to Starter",
+            "welcomeDesc": "Your modern React Native app with multi-language support and dark mode",
+            "features": "Amazing Features",
+            "featuresDesc": "Experience the power of modern mobile development with our feature-rich starter template",
+            "customization": "Customize Everything",
+            "customizationDesc": "Choose your preferred theme and language to make the app truly yours",
+            "ready": "You're All Set!",
+            "readyDesc": "Start exploring your new app with all the features you need",
+            "screen2": "Onboarding Complete!",
+            "complete": "Get Started",
+            "biometricEnabled": "Biometric authentication enabled!",
+            "permissionRequired": "Permission Required",
+            "enableBiometricInSettings": "Please enable biometric authentication in your device settings.",
+            "biometricConfigFailed": "Failed to enable biometric authentication. You can enable it later in settings.",
+            "enableBiometric": "Would you like to enable biometric authentication for secure access?",
+            "biometricNotAvailable": "Biometric authentication is not available on this device.",
+            "biometricNotAvailableDesc": "You can enable it later in settings if available.",
+            "setupPinCode": "Setup PIN Code",
+            "setupPinCodeMessage": "Would you like to set up a 4-digit PIN code as a backup authentication method?",
+            "pinCodeSetup": "PIN Code Setup",
+            "pinCodeSetupMessage": "PIN code setup feature coming soon! You can set it up later in settings.",
+            "enable": "Enable",
+            "skip": "Skip"
+        },
+    "home": {
+        "title": "Welcome to your new app!",
+        "searchPlaceholder": "Search anything...",
+        "welcomeBack": "Welcome back!",
+        "readyToExplore": "Ready to explore?",
+        "yourStats": "Your Stats",
+        "quickActions": "Quick Actions",
+        "featuresIncluded": "Features Included"
+    },
+    "vip": {
+        "title": "VIP Experience"
+    },
+    "profile": {
+        "title": "Profile",
+        "vipUser": "VIP User",
+        "regularUser": "Regular User",
+        "premiumAccount": "Premium Account",
+        "freeAccount": "Free Account",
+        "accountSettings": "Account Settings",
+        "logout": "Logout",
+        "logoutConfirm": "Are you sure you want to logout?"
+    },
+    "notifications": {
+        "title": "Notifications",
+        "noNotifications": "No notifications yet",
+        "sendTest": "Send Test",
+        "deleteTitle": "Delete Notification",
+        "deleteMessage": "Are you sure you want to delete this notification?",
+        "clearAllTitle": "Clear All Notifications",
+        "clearAllMessage": "Are you sure you want to clear all notifications?",
+        "justNow": "Just now",
+        "minutesAgo": "{{count}} min ago",
+        "hoursAgo": "{{count}} hours ago",
+        "markAllRead": "Mark all as read",
+        "clearAll": "Clear all",
+        "testNotification": "Test notification sent!",
+        "permissionRequired": "Notification permission required",
+        "permissionMessage": "Please enable notifications in settings to receive updates"
+    },
+    "settings": {
+        "title": "Settings",
+        "appearance": {
+            "title": "Appearance",
+            "theme": "Theme",
+            "language": "Language"
+        },
+        "theme": {
+            "light": "Light",
+            "dark": "Dark",
+            "system": "System"
+        },
+        "language": {
+            "english": "English",
+            "uzbek": "O'zbekcha",
+            "system": "System"
+        },
+        "notifications": {
+            "title": "Notifications",
+            "enable": "Enable Notifications",
+            "haptic": "Haptic Feedback",
+            "testNotification": "Send Test Notification"
+        },
+        "general": {
+            "title": "General",
+            "autoSave": "Auto Save"
+        },
+        "actions": {
+            "title": "Actions",
+            "exportSettings": "Export Settings",
+            "logout": "Logout"
+        },
+        "about": {
+            "title": "About",
+            "version": "Version",
+            "build": "Build",
+            "platform": "Platform",
+            "designSystem": "Design System"
+        },
+        "reset": {
+            "title": "Reset All Data",
+            "message": "Are you sure you want to reset all settings and user data to default values? This will log you out and clear all preferences.",
+            "confirm": "Reset All"
+        },
+        "security": {
+            "title": "Security & Privacy",
+            "biometricAuth": "Biometric Authentication",
+            "lockScreen": "Lock Screen",
+            "lockTimeout": "Lock Timeout",
+            "pinCode": "PIN Code",
+            "pinCodeSubtitle": "4-digit PIN code for app lock",
+            "changePinCode": "Change PIN Code",
+            "enterCurrentPin": "Enter current PIN code",
+            "enterNewPin": "Enter new PIN code",
+            "confirmNewPin": "Confirm new PIN code",
+            "pinChanged": "PIN code changed successfully",
+            "pinMismatch": "PIN codes don't match",
+            "invalidPin": "Invalid PIN code",
+            "biometricNotAvailable": "Biometric authentication not available on this device",
+            "biometricConfigured": "Biometric authentication is properly configured",
+            "biometricPasscodeOnly": "Only passcode is configured. Please set up Face ID/Touch ID in device settings.",
+            "lockAppWhenInactive": "Lock app when inactive"
+        },
+        "lockScreen": {
+            "title": "App Locked",
+            "subtitle": "Enter PIN code",
+            "biometricSubtitle": "Unlock with biometric",
+            "pinCodeRequired": "PIN code is required to unlock"
+        },
+        "timeout": {
+            "immediately": "Immediately",
+            "30seconds": "30 seconds",
+            "1minute": "1 minute",
+            "5minutes": "5 minutes",
+            "15minutes": "15 minutes",
+            "1hour": "1 hour"
+        }
+    }
+}
